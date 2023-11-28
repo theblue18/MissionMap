@@ -4,7 +4,7 @@ Welcome to the MissionMap Beta testing guide. This document outlines the key fea
 
 ## Beta2 link: [https://beta2.missionmap.io/](https://beta2.missionmap.io/)
 
-## Login Methods && Responsive
+## Login Methods And Responsive
 
 - Only Support Wallets: Metamask, Coinbase Wallet,... Note that currently, social logins, email, and phone logins are not supported.
 - Currently, MissionMap only supports a web interface on desktop and does not yet have responsive support for mobile phones and tablets.
