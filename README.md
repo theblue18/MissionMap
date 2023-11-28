@@ -1,7 +1,7 @@
-MissionMap Beta Testing Guide
+#MissionMap Beta Testing Guide
 Welcome to the MissionMap Beta testing guide. This document outlines the key features and functionalities that need to be tested in the latest version of MissionMap. Your thorough testing and feedback are essential in refining and enhancing the user experience.
 
-Getting Started
+##Getting Started
 Connecting Wallets and Logging In
 Supported Wallets: Connect to MissionMap using digital wallets like Metamask, Coinbase, etc.
 Login Methods: Note that currently, social logins, email, and phone logins are not supported.
