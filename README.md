@@ -1,4 +1,4 @@
-# MissionMap Beta Testing Guide
+# MissionMap Beta v2 Testing Guide
 
 Welcome to the MissionMap Beta testing guide. This document outlines the key features and functionalities that need to be tested in the latest version of MissionMap. Your thorough testing and feedback are essential in refining and enhancing the user experience.
 
