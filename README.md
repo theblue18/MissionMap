@@ -52,8 +52,8 @@ Complete tasks, verify rules, and claim points.
 
 ### Notes for participating in tasks and rules:
 - Photo and Video Tasks require Mission Maker confirmation, which is currently unavailable. Thus, these tasks cannot be successfully verified yet.
-- For Onchain Tasks like Example 1: Swap Token. If you don't already have BEG, you can swap Base Goerli ETH for BEG. Then, swapping BEG for USDC will complete the task.
-- For rules requiring a Gitcoin Passport Score, please follow this link: https://passport.gitcoin.co/, and follow the steps to obtain your Score information.
+- For Onchain Tasks like Example 1: Swap Token. If you don't already have BEG, you can swap Base Goerli ETH for BEG. Then, swapping BEG for USDC will complete the task. Faucet Base Goerli here: [Base Goerli](https://coinbase.com/faucets/base-ethereum-goerli-faucet)
+- For rules requiring a Gitcoin Passport Score, please follow this link: [Gitcoin Passport](https://passport.gitcoin.co/), and follow the steps to obtain your Score information.
 
 ## Feedback and Reporting
 Your input is invaluable to us. While testing, please provide feedback on functionality, user experience, and any issues encountered. We aim to make MissionMap a seamless and engaging platform for both Mission Makers and Takers.
