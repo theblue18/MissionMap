@@ -2,6 +2,8 @@
 
 Welcome to the MissionMap Beta testing guide. This document outlines the key features and functionalities that need to be tested in the latest version of MissionMap. Your thorough testing and feedback are essential in refining and enhancing the user experience.
 
+## Beta2 link: [https://beta2.missionmap.io/](https://beta2.missionmap.io/)
+
 ## Login Methods && Responsive
 
 - Only Support Wallets: Metamask, Coinbase Wallet,... Note that currently, social logins, email, and phone logins are not supported.
