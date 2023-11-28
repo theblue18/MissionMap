@@ -2,9 +2,10 @@
 
 Welcome to the MissionMap Beta testing guide. This document outlines the key features and functionalities that need to be tested in the latest version of MissionMap. Your thorough testing and feedback are essential in refining and enhancing the user experience.
 
-## Login Methods
+## Login Methods && Responsive
 
-Only Support: Metamask, Coinbase Wallet,... Note that currently, social logins, email, and phone logins are not supported.
+- Only Support Wallets: Metamask, Coinbase Wallet,... Note that currently, social logins, email, and phone logins are not supported.
+- Currently, MissionMap only supports a web interface on desktop and does not yet have responsive support for mobile phones and tablets.
 
 ## For Mission Makers
 
@@ -39,7 +40,7 @@ Edit Space: Access and modify the details of your Space.
   - Function: depositETH(uint256,uint256)
 
 ### Testing Location Tasks
-Share Location: Tasks are considered completed only if the user's current location is within the region of the Community. In global communities, the task is always marked as successful.
+Location Task: Tasks are considered completed only if the user's current location is within the region of the Community. In global communities, the task is always marked as successful.
 
 ## For Mission Takers
 ### Exploring and Participating in Missions
@@ -47,7 +48,12 @@ Share Location: Tasks are considered completed only if the user's current locati
 - Community Engagement: View and engage with Communities, access the leaderboard, and see your collected points.
 - Campaign Interaction: View Campaigns, their details, and participate.
 Complete tasks, verify rules, and claim points.
-- Note: Photo and Video Tasks require Mission Maker confirmation, which is currently unavailable. Thus, these tasks cannot be successfully verified yet.
+
+
+### Notes for participating in tasks and rules:
+- Photo and Video Tasks require Mission Maker confirmation, which is currently unavailable. Thus, these tasks cannot be successfully verified yet.
+- For Onchain Tasks like Example 1: Swap Token. If you don't already have BEG, you can swap Base Goerli ETH for BEG. Then, swapping BEG for USDC will complete the task.
+- For rules requiring a Gitcoin Passport Score, please follow this link: https://passport.gitcoin.co/, and follow the steps to obtain your Score information.
 
 ## Feedback and Reporting
 Your input is invaluable to us. While testing, please provide feedback on functionality, user experience, and any issues encountered. We aim to make MissionMap a seamless and engaging platform for both Mission Makers and Takers.
